@@ -1,0 +1,5 @@
+*.zip
+chest_xray
+data
+.vscode
+.ipynb_checkpoints

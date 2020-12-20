@@ -3,3 +3,4 @@ chest_xray
 data
 .vscode
 .ipynb_checkpoints
+.DS_Store
